@@ -6,7 +6,7 @@ const App = () => {
 
   
   return (
-    <div>
+    <div className='px-10 py-5'>
       <Posts/>
     </div>
   )
