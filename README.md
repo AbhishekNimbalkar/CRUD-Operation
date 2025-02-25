@@ -1,8 +1,32 @@
-# React + Vite
+React Posts Management App
+This is a simple React application for managing posts. It allows you to:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+View a list of posts.
 
-Currently, two official plugins are available:
+Add new posts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Edit existing posts.
+
+Delete posts.
+
+The app uses the JSONPlaceholder API to fetch and manage post data.
+
+👉 Live Demo: https://sensational-monstera-911317.netlify.app/
+
+Features
+View Posts: Displays a list of posts with their titles and content.
+
+Add Posts: Add new posts with a title and body.
+
+Edit Posts: Update existing posts.
+
+Delete Posts: Remove posts from the list.
+
+Technologies Used
+React: A JavaScript library for building user interfaces.
+
+Tailwind CSS: A utility-first CSS framework for styling.
+
+Axios: A promise-based HTTP client for making API requests.
+
+JSONPlaceholder API: A free fake API for testing and prototyping.
